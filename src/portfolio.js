@@ -23,8 +23,7 @@ const greeting = {
   username: "Zachary Ebaugh",
   title: "Hi all, I'm Zac",
   subTitle: emoji(
-    "Student @UCF \
-     | Software Engineer"
+    "Student @UCF | Software Engineer"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1drCkaw7GWyXnPIUcyG1bHm-1s2lRllTZ/view?usp=share_link", // Set to empty to hide the button
